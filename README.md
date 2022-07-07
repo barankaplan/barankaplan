@@ -42,7 +42,7 @@ indem Sie die angehängten Repositories in diesem Profil überprüfen, können S
 
 <img width="697" alt="Screenshot 2022-07-07 at 10 56 32" src="https://user-images.githubusercontent.com/59101253/177734118-52d2fb30-0540-485d-8e8c-64e84c7cc984.png">
 
-  -Certain users have certain responsibilities and authorizations.for example admin controls everything but salesperson can't see users and customers
+  -Certain users have certain responsibilities and role based authorizations.for example admin controls everything but salesperson can't see users and customers
   
 
    <img width="592" alt="Screenshot 2022-07-07 at 11 09 32" src="https://user-images.githubusercontent.com/59101253/177737033-64ccb466-8efd-482c-ba52-e8689c80a6a9.png">
