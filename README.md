@@ -3,7 +3,7 @@
 
 indem Sie die angehängten Repositories in diesem Profil überprüfen, können Sie sich besser über den Inhalt informieren und die Projekte schneller untersuchen. Lost geht's!
 
-**Project 1- [Microservices](https://github.com/barankaplan/kaplans-microservice/tree/deploy-to-k8s)**
+### **Project 1- [Microservices](https://github.com/barankaplan/kaplans-microservice/tree/deploy-to-k8s)**
 
   -microservices communication using spring cloud
   
@@ -23,7 +23,7 @@ indem Sie die angehängten Repositories in diesem Profil überprüfen, können S
   
   -the project was run on kubernetes for testing using minikube on docker
   
-**Project 2-[e-commerce Website using monolithic architecture](https://github.com/barankaplan/e-commerce-kaplan)**
+### **Project 2-[e-commerce Website using monolithic architecture](https://github.com/barankaplan/e-commerce-kaplan)**
 
   <img width="504" alt="Screenshot 2022-07-07 at 09 36 38" src="https://user-images.githubusercontent.com/59101253/177718196-1e56d7f6-309e-446d-b38d-7193a79aa89b.png">
 
@@ -69,7 +69,7 @@ indem Sie die angehängten Repositories in diesem Profil überprüfen, können S
   <img width="847" alt="Screenshot 2022-07-07 at 11 20 22" src="https://user-images.githubusercontent.com/59101253/177739388-d0a87fa6-cb73-4f92-bfa2-5c2a3b0ca9bb.png">
   
   
-**Project 3- [Rest Api talks with Web Service Geonames Server](https://github.com/barankaplan/kaplans-webservice)**
+### **Project 3- [Rest Api talks with Web Service Geonames Server](https://github.com/barankaplan/kaplans-webservice)**
 
 This application covers alost of attemps related to spring boot Fundamentals and i listes some of them below.
 
