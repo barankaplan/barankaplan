@@ -69,7 +69,43 @@ indem Sie die angehängten Repositories in diesem Profil überprüfen, können S
   <img width="847" alt="Screenshot 2022-07-07 at 11 20 22" src="https://user-images.githubusercontent.com/59101253/177739388-d0a87fa6-cb73-4f92-bfa2-5c2a3b0ca9bb.png">
   
   
-**Project 3- [Rest Api talks with Geonames Server](https://github.com/barankaplan/kaplans-webservice)**
+**Project 3- [Rest Api talks with Web Service Geonames Server](https://github.com/barankaplan/kaplans-webservice)**
+
+This application covers alost of attemps related to spring boot Fundamentals and i listes some of them below.
+
+**Spring Boot side**
+
+-exception handling
+
+-basic principles like map struct
+  
+-different update approaches, layered architect etc.
+  
+-custom exception handling layer by layer
+
+**DB Side**
+
+-testing /database file /h2 memory DB / PostgreSQL using test containers
+  
+-a basic cache mechanism between entity and web service. If the address is in the DB, data is fetched directly from DB without interacting with web service.
+
+-JDBC principles, using queries and functions in spring boot and connection with JPA repositories.
+
+-Hibernate and JPA principles, table relations include native, jpql, repository queries.
+
+-if a postal code is already in database ,we don't communicate with server.
+
+**Testing Side**
+
+-Unit and Integration tests using different databases and docker contaniners
+
+**Security Side**
+
+-Basic and Bearer Token
+
+<img width="1011" alt="Screenshot 2022-07-07 at 13 37 10" src="https://user-images.githubusercontent.com/59101253/177764526-22e0e51f-7a27-406e-99a2-cdeb037fc270.png">
+
+
 
 
 
@@ -78,14 +114,5 @@ indem Sie die angehängten Repositories in diesem Profil überprüfen, können S
 <!--
 **barankaplan/barankaplan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
