@@ -19,7 +19,7 @@ indem Sie die angehängten Repositories in diesem Profil überprüfen, können S
   
   -i have created a simple message queue with rabbitmq in order not to reflect the delays due to problems between services to the user.
   
-  -the project was run with jar files, then docker images cretad and uploaded using these jar files, lastly containers were created and the project was run entirely on docker.
+  -the project was run with jar files, then docker images cretad and uploaded by using these jar files, lastly containers were created and the project was run entirely on docker.
   
   -the project was run on kubernetes for testing using minikube on docker
   
