@@ -39,16 +39,35 @@ indem Sie die angehängten Repositories in diesem Profil überprüfen, können S
   
   -data can be downloaded in csv, excel and pdf formats
   
-  -<img width="414" alt="Screenshot 2022-07-07 at 10 53 12" src="https://user-images.githubusercontent.com/59101253/177733390-747e7762-5fe0-4320-834e-9c53dd53068b.png">
+
 <img width="697" alt="Screenshot 2022-07-07 at 10 56 32" src="https://user-images.githubusercontent.com/59101253/177734118-52d2fb30-0540-485d-8e8c-64e84c7cc984.png">
 
-  -Certain users have certain responsibilities and authorizations.
+  -Certain users have certain responsibilities and authorizations.for example admin controls everything but salesperson can't see users and customers
+  
+
+   <img width="592" alt="Screenshot 2022-07-07 at 11 09 32" src="https://user-images.githubusercontent.com/59101253/177737033-64ccb466-8efd-482c-ba52-e8689c80a6a9.png">
+
+   <img width="545" alt="Screenshot 2022-07-07 at 11 08 49" src="https://user-images.githubusercontent.com/59101253/177736858-2b63ea8e-7a2e-40eb-9d87-f415394a1123.png">
+
 
 <img width="726" alt="Screenshot 2022-07-07 at 11 01 48" src="https://user-images.githubusercontent.com/59101253/177735237-8e854d18-9137-4c84-8f16-947aec773b61.png">
 
+ -custom error pages 
+ 
+ <img width="434" alt="Screenshot 2022-07-07 at 11 15 48" src="https://user-images.githubusercontent.com/59101253/177738403-5dc86bfb-4f10-4677-90e9-70debfcd10aa.png">
 
+<img width="699" alt="Screenshot 2022-07-07 at 11 11 28" src="https://user-images.githubusercontent.com/59101253/177737471-a90c28f1-43cc-4858-a866-d88625122877.png">
 
+<img width="331" alt="Screenshot 2022-07-07 at 11 11 45" src="https://user-images.githubusercontent.com/59101253/177737555-baf9dd43-d6a6-4e39-bfa3-29fff104dae8.png">
+
+  -pagination , filtering and sorting
   
+  <img width="641" alt="Screenshot 2022-07-07 at 11 19 40" src="https://user-images.githubusercontent.com/59101253/177739271-ed220115-5636-4bb9-b259-e2d1cd2f6649.png">
+
+<img width="1271" alt="Screenshot 2022-07-07 at 11 15 02" src="https://user-images.githubusercontent.com/59101253/177738203-d64729a8-4201-4b82-b638-4ae1e51d90ef.png">
+
+  <img width="847" alt="Screenshot 2022-07-07 at 11 20 22" src="https://user-images.githubusercontent.com/59101253/177739388-d0a87fa6-cb73-4f92-bfa2-5c2a3b0ca9bb.png">
+
 
 
 <!--
