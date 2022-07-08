@@ -3,6 +3,13 @@
 
 indem Sie die angehängten Repositories in diesem Profil überprüfen, können Sie sich besser über den Inhalt informieren und die Projekte schneller untersuchen. Lost geht's!
 
+
+
+### 🗒 [review my CV](https://github.com/barankaplan/barankaplan/files/9073588/Baran.Kaplan.CV.pdf) ###
+
+
+
+
 ### **📂 Project 1- [Microservices](https://github.com/barankaplan/kaplans-microservice/tree/deploy-to-k8s)**
 
   -microservices communication using spring cloud
@@ -110,6 +117,7 @@ This application covers alost of attemps related to spring boot Fundamentals and
 -Basic and Bearer Token
 
 <img width="1011" alt="Screenshot 2022-07-07 at 13 37 10" src="https://user-images.githubusercontent.com/59101253/177764526-22e0e51f-7a27-406e-99a2-cdeb037fc270.png">
+
 
 
 
