@@ -121,13 +121,45 @@ This application covers alost of attemps related to spring boot Fundamentals and
 
 ### **📂 Project 4- [REST API - Blog](https://github.com/barankaplan/kaplans-RESTAPI-blog/tree/09-07-aws)**
 
+-login and signup
+
+-memory based authentication, token-based authentication using jwt
+
+-request validation
+
+<img width="354" alt="Screenshot 2022-07-09 at 22 27 48" src="https://user-images.githubusercontent.com/59101253/178121553-d5d2cee6-7df3-4790-95d3-54c6865f2a6f.png">
+
+
+
+-pagination and sorting / page no and page size are optional
+
+
+
+-transaction management
+
+-exception handling
+
+-testing
+
+-versioning apis
+
+-api documentation using swagger api
+
+-deploying on aws cloud (elastic beanstalk,rds,amazon w3)
+
+<img width="912" alt="Screenshot 2022-07-09 at 22 28 41" src="https://user-images.githubusercontent.com/59101253/178121584-5a0b22f2-bd9d-4fe9-aa85-57cce9743821.png">
+
+<img width="556" alt="Screenshot 2022-07-09 at 22 29 26" src="https://user-images.githubusercontent.com/59101253/178121606-876eb086-50a1-473b-b599-bc6de60a8be6.png">
+
 
 
 ### **📂 Project 5- [TCP Client Server](https://github.com/barankaplan/kaplan-socket-22)**
 
--My library, which contains functional methods using factory classes on csv files, is used by the server.(for more infos please read [docx file](https://github.com/barankaplan/kaplan-socket-22/blob/master/readme-socket.docx))
+-My library, which contains functional interfaces consumed by stream api in various methods and using factory classes on csv files, is used by the server.(for more infos please read [docx file](https://github.com/barankaplan/kaplan-socket-22/blob/master/readme-socket.docx))
 
--gfh
+-The client goes through a 3-level password system, if it keeps the server busy for more than 20 seconds, it will be kicked out automatically.
+
+-The server can serve 100 clients asynchronously. Check the jpeg below
 
 ![IMG_DCF2F28FC3F8-1](https://user-images.githubusercontent.com/59101253/178121092-ac749950-744f-4d98-9966-58aa33f737b6.jpeg)
 
