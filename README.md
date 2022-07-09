@@ -143,7 +143,15 @@ This application covers alost of attemps related to spring boot Fundamentals and
 
 -versioning apis
 
+<img width="888" alt="Screenshot 2022-07-09 at 22 32 24" src="https://user-images.githubusercontent.com/59101253/178121676-33389397-ac68-4bf6-bc0a-c6accac9f1b6.png">
+
+<img width="871" alt="Screenshot 2022-07-09 at 22 32 46" src="https://user-images.githubusercontent.com/59101253/178121700-5381b3cc-204c-4195-81ff-dc07b24fb2de.png">
+
+
 -api documentation using swagger api
+
+<img width="540" alt="Screenshot 2022-07-09 at 22 30 58" src="https://user-images.githubusercontent.com/59101253/178121633-c3ebeb7f-996d-4503-903a-8f3ecec143cc.png">
+
 
 -deploying on aws cloud (elastic beanstalk,rds,amazon w3)
 
