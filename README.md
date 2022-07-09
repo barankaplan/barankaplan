@@ -175,6 +175,17 @@ This application covers alost of attemps related to spring boot Fundamentals and
 ![IMG_DCF2F28FC3F8-1](https://user-images.githubusercontent.com/59101253/178121092-ac749950-744f-4d98-9966-58aa33f737b6.jpeg)
 
 
+### **📂 Project 6- [Device-Based Content Clustering with DBSCAN And K-Prototype Algorithms in Mobile Applications](https://github.com/barankaplan/dbscan-kprot-nlp)**
+
+-The time devices spend on apps and content are crucial factors in creating a more interactive experience and personalized content for the user. In other words, various tables, galleries, etc., in one application throughout the day. These activities are intended to be grouped according to parameters such as the time the user browses the web, likes photos, clicks on the gallery, and watches videos.
+
+The results are proven by using hypothesis testing and summarized in the Tableau. It is revealed that it is possible to combine the wishes and tendencies of the user corresponding to the products in the market.
+![image](https://user-images.githubusercontent.com/59101253/178122042-354e83c8-ac6d-4764-8087-a01ae572b123.png)
+
+
+-My library, which contains functional interfaces consumed by stream api in various methods and using factory classes on csv files, is used by the server.(for more infos please read [docx file](https://github.com/barankaplan/kaplan-socket-22/blob/master/readme-socket.docx))
+
+
 
 
 
