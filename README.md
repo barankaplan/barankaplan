@@ -119,9 +119,17 @@ This application covers alost of attemps related to spring boot Fundamentals and
 <img width="1011" alt="Screenshot 2022-07-07 at 13 37 10" src="https://user-images.githubusercontent.com/59101253/177764526-22e0e51f-7a27-406e-99a2-cdeb037fc270.png">
 
 
+### **📂 Project 4- [REST API - Blog](https://github.com/barankaplan/kaplans-RESTAPI-blog/tree/09-07-aws)**
 
 
 
+### **📂 Project 5- [TCP Client Server](https://github.com/barankaplan/kaplan-socket-22)**
+
+-My library, which contains functional methods using factory classes on csv files, is used by the server.(for more infos please read [docx file](https://github.com/barankaplan/kaplan-socket-22/blob/master/readme-socket.docx))
+
+-gfh
+
+![IMG_DCF2F28FC3F8-1](https://user-images.githubusercontent.com/59101253/178121092-ac749950-744f-4d98-9966-58aa33f737b6.jpeg)
 
 
 
