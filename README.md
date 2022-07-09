@@ -194,7 +194,7 @@ The results are proven by using hypothesis testing and summarized in the Tableau
 ### **📂 Project 7- [Support Vector Machines](https://github.com/barankaplan/support-vector-machine)**
 
 
-### ** 🗂 🗂 🗂 Also you can check my works related to [files](https://github.com/barankaplan/oop-files-cases),[generics](https://github.com/barankaplan/oop-generics-cases) and [exceptions](https://github.com/barankaplan/oop-exceptions-cases)**
+### **🗂 🗂 🗂 Also you can check my works related to [files](https://github.com/barankaplan/oop-files-cases),[generics](https://github.com/barankaplan/oop-generics-cases) and [exceptions](https://github.com/barankaplan/oop-exceptions-cases)**
 
 
 
