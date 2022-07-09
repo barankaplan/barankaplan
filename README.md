@@ -188,8 +188,8 @@ The results are proven by using hypothesis testing and summarized in the Tableau
 <img width="493" alt="Screenshot 2022-07-09 at 22 49 48" src="https://user-images.githubusercontent.com/59101253/178122215-21ceca2d-a1c5-42e4-aaee-cbd116a0e36d.png">
 
 
--for more infos please read [docx file](https://github.com/baran![Uploading Screenshot 2022-07-09 at 22.48.24.png…]()
-kaplan/dbscan-kprot-nlp/blob/main/advertising%20reccomandation%20project%20per%20device.docx)
+-for more infos please read [docx file](https://github.com/barankaplan/dbscan-kprot-nlp/blob/main/advertising%20reccomandation%20project%20per%20device.docx)
+
 
 
 
