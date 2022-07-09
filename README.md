@@ -181,8 +181,15 @@ This application covers alost of attemps related to spring boot Fundamentals and
 
 The results are proven by using hypothesis testing and summarized in the Tableau. It is revealed that it is possible to combine the wishes and tendencies of the user corresponding to the products in the market.
 
+<img width="409" alt="Screenshot 2022-07-09 at 22 48 42" src="https://user-images.githubusercontent.com/59101253/178122161-8895baf3-634e-4431-ab6a-00df0d088c7a.png">
 
--for more infos please read [docx file](https://github.com/barankaplan/dbscan-kprot-nlp/blob/main/advertising%20reccomandation%20project%20per%20device.docx)
+<img width="830" alt="Screenshot 2022-07-09 at 22 49 25" src="https://user-images.githubusercontent.com/59101253/178122203-e87385cb-7f9d-4c17-9f83-63a6e5cf96fc.png">
+
+<img width="493" alt="Screenshot 2022-07-09 at 22 49 48" src="https://user-images.githubusercontent.com/59101253/178122215-21ceca2d-a1c5-42e4-aaee-cbd116a0e36d.png">
+
+
+-for more infos please read [docx file](https://github.com/baran![Uploading Screenshot 2022-07-09 at 22.48.24.png…]()
+kaplan/dbscan-kprot-nlp/blob/main/advertising%20reccomandation%20project%20per%20device.docx)
 
 
 
