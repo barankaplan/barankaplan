@@ -82,7 +82,7 @@ indem Sie die angehängten Repositories in diesem Profil überprüfen, können S
   
   
   
-### **📂 Project 3- [Rest Api talks with Web Service Geonames Server](https://github.com/barankaplan/kaplans-webservice-main)**
+### **📂 Project 3- [Rest Api talks with Web Service Geonames Server](https://github.com/barankaplan/kaplans-webservice-22)**
 
 This application covers alost of attemps related to spring boot Fundamentals and i listes some of them below.
 
