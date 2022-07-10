@@ -121,6 +121,8 @@ This application covers alost of attemps related to spring boot Fundamentals and
 
 ### **📂 Project 4- [REST API - Blog](https://github.com/barankaplan/kaplans-RESTAPI-blog/tree/09-07-aws)**
 
+### [Click here to reach the version running on elastic beanstalk !](http://kaplansrestapiblog-env-2.eba-nnqctyzc.us-east-1.elasticbeanstalk.com/swagger-ui/#/)
+
 -login and signup
 
 -memory based authentication, token-based authentication using jwt
@@ -162,6 +164,12 @@ This application covers alost of attemps related to spring boot Fundamentals and
 
 <img width="556" alt="Screenshot 2022-07-09 at 22 29 26" src="https://user-images.githubusercontent.com/59101253/178121606-876eb086-50a1-473b-b599-bc6de60a8be6.png">
 
+
+<img width="727" alt="Screenshot 2022-07-10 at 10 09 23" src="https://user-images.githubusercontent.com/59101253/178136709-4e6138d1-c3cd-4e53-996c-13a1add1eb21.png">
+
+<img width="733" alt="Screenshot 2022-07-10 at 10 10 33" src="https://user-images.githubusercontent.com/59101253/178136739-befca0a7-c8c9-4dd3-be52-34a1937c461a.png">
+
+<img width="1407" alt="Screenshot 2022-07-10 at 10 10 52" src="https://user-images.githubusercontent.com/59101253/178136760-f10b4061-8485-460c-94f8-5f2b692f3d9a.png">
 
 
 ### **📂 Project 5- [TCP Client Server](https://github.com/barankaplan/kaplan-socket-22)**
