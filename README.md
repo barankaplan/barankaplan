@@ -3,9 +3,14 @@
 
 indem Sie die angehängten Repositories in diesem Profil überprüfen, können Sie sich besser über den Inhalt informieren und die Projekte schneller untersuchen. Lost geht's!
 
+### 📉 [skip straight to my data science projects](#login-optional-fields)
+
+
+
 
 
 ### 🗒 [review my CV](https://github.com/barankaplan/barankaplan/files/9073588/Baran.Kaplan.CV.pdf) ###
+
 
 
 
@@ -212,6 +217,13 @@ This application covers alost of attemps related to spring boot Fundamentals and
 ![IMG_DCF2F28FC3F8-1](https://user-images.githubusercontent.com/59101253/178121092-ac749950-744f-4d98-9966-58aa33f737b6.jpeg)
 
 
+### **🗂 🗂 🗂 Also you can check my works related to [files](https://github.com/barankaplan/oop-files-cases),[generics](https://github.com/barankaplan/oop-generics-cases) and [exceptions](https://github.com/barankaplan/oop-exceptions-cases)**
+
+
+<h4 id="login-optional-fields">
+Data Science Projects
+</h4>
+
 ### **📂 Project 6- [Device-Based Content Clustering with DBSCAN And K-Prototype Algorithms in Mobile Applications](https://github.com/barankaplan/dbscan-kprot-nlp)**
 
 -The time devices spend on apps and content are crucial factors in creating a more interactive experience and personalized content for the user. In other words, various tables, galleries, etc., in one application throughout the day. These activities are intended to be grouped according to parameters such as the time the user browses the web, likes photos, clicks on the gallery, and watches videos.
@@ -231,7 +243,6 @@ The results are proven by using hypothesis testing and summarized in the Tableau
 ### **📂 Project 7- [Support Vector Machines](https://github.com/barankaplan/support-vector-machine)**
 
 
-### **🗂 🗂 🗂 Also you can check my works related to [files](https://github.com/barankaplan/oop-files-cases),[generics](https://github.com/barankaplan/oop-generics-cases) and [exceptions](https://github.com/barankaplan/oop-exceptions-cases)**
 
 
 
