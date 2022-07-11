@@ -264,6 +264,8 @@ The results are proven by using hypothesis testing and summarized in the Tableau
 ### **📂 Project 7- [Support Vector Machines](https://github.com/barankaplan/support-vector-machine)**
 
 
+### **📄[Read one of my published article covers PCA on datatab,which is one of the most popular online statistics calculator.](https://datatab.net/tutorial/pca)**
+
 
 
 
