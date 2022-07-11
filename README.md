@@ -27,15 +27,36 @@ indem Sie die angehängten Repositories in diesem Profil überprüfen, können S
   
   -used sleuth for an auto configured distributed tracing and zipkin for checking the tracing system
   
+  <img width="1355" alt="Screenshot 2022-07-11 at 10 37 34" src="https://user-images.githubusercontent.com/59101253/178223422-18a0533a-2fe3-46c1-8bc2-d50c143f665b.png">
+  
+<img width="1064" alt="Screenshot 2022-07-11 at 10 39 28" src="https://user-images.githubusercontent.com/59101253/178223769-cdaeac55-59ca-435b-8c25-f5912ac31fd2.png">
+
   -external load balance(main entry point) between clients and instances using api gateway
   
   -i have created a simple message queue with rabbitmq in order not to reflect the delays due to problems between services to the user.
   
   -the project was run with jar files, then docker images cretad and uploaded by using these jar files, lastly containers were created and the project was run entirely on docker.
   
+  <img width="776" alt="Screenshot 2022-07-11 at 10 42 28" src="https://user-images.githubusercontent.com/59101253/178224306-3b74674c-3c88-432b-a913-6d0438273200.png">
+
+<img width="1311" alt="Screenshot 2022-07-11 at 10 42 54" src="https://user-images.githubusercontent.com/59101253/178224395-48a1435d-80d6-48fc-8849-ca41d8014f57.png">
+
+  
+  <img width="1076" alt="Screenshot 2022-07-11 at 10 36 49" src="https://user-images.githubusercontent.com/59101253/178223274-689e1529-c381-4ba7-b06e-10a5423c1ad0.png">
+
+  
+  
   -the project was run on kubernetes for testing using minikube on docker
   
+  <img width="1004" alt="Screenshot 2022-07-11 at 10 31 09" src="https://user-images.githubusercontent.com/59101253/178222256-ac419a59-95b0-4143-aad8-b0cfdfd84d1b.png">
+
+
+<img width="726" alt="Screenshot 2022-07-11 at 10 30 16" src="https://user-images.githubusercontent.com/59101253/178222110-cce6d38d-7c71-402a-a20a-a683db4a8fc7.png">
+
+  <img width="1067" alt="Screenshot 2022-07-11 at 10 34 02" src="https://user-images.githubusercontent.com/59101253/178222779-74afc976-4129-461c-a15f-5229346fc887.png">
   
+<img width="1168" alt="Screenshot 2022-07-11 at 10 35 42" src="https://user-images.githubusercontent.com/59101253/178223052-91a33723-c448-4f69-82ff-fde1d8a64b1d.png">
+
   
   
 ### **📂 Project 2-[e-commerce Website using monolithic architecture](https://github.com/barankaplan/e-commerce-kaplan)**
