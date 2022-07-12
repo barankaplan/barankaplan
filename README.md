@@ -9,9 +9,7 @@ indem Sie die angehängten Repositories in diesem Profil überprüfen, können S
 
 
 
-### 🗒 [review my CV](https://github.com/barankaplan/barankaplan/files/9073588/Baran.Kaplan.CV.pdf) ###
-
-
+### 🗒 [review my CV](https://github.com/barankaplan/barankaplan/files/9094616/Baran.Kaplan.CV.pdf) ###
 
 
 
