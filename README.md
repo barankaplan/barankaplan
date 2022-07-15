@@ -3,14 +3,15 @@
 
 indem Sie die angehängten Repositories in diesem Profil überprüfen, können Sie sich besser über den Inhalt informieren und die Projekte schneller untersuchen. Lost geht's!
 
-### 📉 [skip straight to my data science projects](#login-optional-fields)
-
-
-
 
 
 ### 🗒 [review my CV](https://github.com/barankaplan/barankaplan/files/9094616/Baran.Kaplan.CV.pdf) ###
 
+
+### 📉 [skip straight to my data science projects](#login-optional-fields)
+
+
+### 🛢 [a quick introduction to postgresql to check my knowledge](https://gist.github.com/barankaplan/dc0c69f15c356c2f86f32e22bf6e019c)
 
 
 ### **📂 Project 1- [Microservices](https://github.com/barankaplan/kaplans-microservice/tree/deploy-to-k8s)**
