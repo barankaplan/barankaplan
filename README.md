@@ -16,6 +16,7 @@ indem Sie die angehängten Repositories in diesem Profil überprüfen, können S
 ### **📂 Project 1- [AnfrageDerBetriebsstelleMittelsAbkuerzung](https://github.com/barankaplan/AnfrageDerBetriebsstelleMittelsAbkuerzung)**
 
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/59101253/186783858-e200c6d5-756d-45b5-b9c6-7ef038a8e4f6.gif)
+
 -CSV-Daten wurden untersucht und es wurde entschieden, mit "Set Data Struktur" zu arbeiten, da die Werte in der RL100-Code-Spalte eindeutig
 sind und die Suche durch diese Spalte bearbeitet wird.
 
