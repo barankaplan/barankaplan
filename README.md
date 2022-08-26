@@ -25,7 +25,7 @@ indem Sie die angehängten Repositories in diesem Profil überprüfen, können S
 ### [Go to  Project 2 - Microservices ](#pr2)
 ### [Go to  Project 3 - e-commerce Website using monolithic architecture ](#pr3)
 ### [Go to  Project 4 - Rest Api talks with Web Service Geonames Server ](#pr4)
-### [Go to  Project 5 -  REST API - Blog ](#pr5)
+### [Go to  Project 5 -  REST API - Blog - Swagger,AWS Beanstalk etc. ](#pr5)
 ### [Go to  Project 6 - TCP Client Server ](#pr6)
 ### [Go to  Project 7 - Device-Based Content Clustering with DBSCAN And K-Prototype Algorithms in Mobile Applications ](#pr7)
 ### [Go to  Project 8 - Support Vector Machines ](#pr8)
